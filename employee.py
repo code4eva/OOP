@@ -1,3 +1,7 @@
+##########################################################################
+# This code is emulated from Mark Lutz's Programming Python
+##########################################################################
+
 class Employee(object):
 	def __init__(self, name,job=None, salary=0):
 		self.name = name
